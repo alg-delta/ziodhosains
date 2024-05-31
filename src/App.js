@@ -53,14 +53,14 @@ function App() {
     <div className="App">
       <Header addCard={addCard} />
       <Row>
-      {isCard && (
+        <Col>
+          <Main products={data} add={add} />
+        </Col>
+        {isCard && (
           <Col md={4}>
             <Cart cartItems={cartItems} remove={remove} add={add} buy={buy} />
           </Col>
         )}
-        <Col>
-          <Main products={data} add={add} />
-        </Col>
       </Row>
       <Acordion />
     </div>
