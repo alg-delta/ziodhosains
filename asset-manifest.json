@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ziodhosains/static/css/main.db62923b.css",
-    "main.js": "/ziodhosains/static/js/main.9673377f.js",
+    "main.js": "/ziodhosains/static/js/main.3a1eed70.js",
     "static/js/453.0f4552a2.chunk.js": "/ziodhosains/static/js/453.0f4552a2.chunk.js",
     "index.html": "/ziodhosains/index.html",
     "main.db62923b.css.map": "/ziodhosains/static/css/main.db62923b.css.map",
-    "main.9673377f.js.map": "/ziodhosains/static/js/main.9673377f.js.map",
+    "main.3a1eed70.js.map": "/ziodhosains/static/js/main.3a1eed70.js.map",
     "453.0f4552a2.chunk.js.map": "/ziodhosains/static/js/453.0f4552a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.9673377f.js"
+    "static/js/main.3a1eed70.js"
   ]
 }
